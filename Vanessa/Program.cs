@@ -167,13 +167,13 @@ internal class Program
                         [
                             new Button
                             {
-                                Label = "🎧 Listen",
+                                Label = "🎧 一起听",
                                 Url   = info.Url,
                             },
                             new Button
                             {
-                                Label = "👏 View App on GitHub",
-                                Url   = "https://github.com/Kxnrl/NetEase-Cloud-Music-DiscordRPC",
+                                Label = "👀 我的抖音",
+                                Url   = "https://www.douyin.com/user/MS4wLjABAAAAUFYHbwXV2gMmkcOmetXDV6D2YA6AzcnSEpUvC4bvrWwmzJIEZFuSKPpTM-Jnk1gs?from_tab_name=main",
                             },
                         ];
                     });
